@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **maharaj.deb.concordia@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/4ob33oo27s](https://flowcv.com/resume/4ob33oo27s)
+- 📄 My Resume : [Maharaj Teertha Deb](https://flowcv.com/resume/4ob33oo27s)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
