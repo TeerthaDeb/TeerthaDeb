@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=teerthadeb&show_icons=true&locale=en&theme=dark" alt="teerthadeb" /></p>
 
 ![](https://www.svgrepo.com/show/265055/coding-programming-language.svg)
+![Profile views](https://gpvc.arturio.dev/TeerthaDeb)
