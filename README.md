@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-📫 How to reach me: maharaj.deb.concordia@gmail.com <br/> 📄 My Resume : https://flowcv.com/resume/5mk8wdn0fn<br/>
+📫 How to reach me: maharaj.deb.concordia@gmail.com <br/> 📄 My Resume : [Resume](https://flowcv.com/resume/5mk8wdn0fn)<br/>
 
 
 ## 🌐 Socials:
