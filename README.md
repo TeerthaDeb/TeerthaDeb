@@ -4,7 +4,7 @@
 
 ---
 
-📫 How to reach me: maharaj.deb.concordia@gmail.com <br/> Portfolio : [Portfolio](https://teerthadeb.github.io/Portfolio/)<br/>
+📫 How to reach me: maharaj.deb.concordia@gmail.com <br/> Portfolio : [Portfolio](https://maharajdeb.vercel.app/?ref=GitHubAbout)<br/>
 
 ---
 
